@@ -1,0 +1,16 @@
+ls
+cd ..
+ls
+cd ..
+ls
+cd poet
+node build
+cd ..
+ls
+cd scratch/
+cd Projects/
+ls
+mkdir poetic-euler
+ls
+cd poetic-euler/
+ls
